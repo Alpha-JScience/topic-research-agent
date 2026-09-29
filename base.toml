@@ -1,15 +1,14 @@
-[deepseek]
-base_url = "choice base url"
-api_key = "choice key"
-model = "choice model"
-fallback_model = "deepseek-v4-pro"
+# ============================================================
+# .toml — Topic Research Agent v2
+# Place this file at the project root. NEVER commit to git.
+# ============================================================
 
-[openai]
-base_url = "https://api.Ai Platform"
-api_key = ""
-model = "choice model"
+[llm]
+api_key  = "paste api key"
+base_url = "choice base url"       
+model    = "choice model"                        
 
-[app]
-default_domain = "General"
-max_tokens = 4096
-temperature = 0.7
+[search]
+# Optional: if you want to use a paid search API later
+# api_key = "paste api key"
+max_results = 5
