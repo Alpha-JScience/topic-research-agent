@@ -1,4 +1,7 @@
-streamlit
 openai
 pandas
-toml
+duckduckgo-search
+streamlit
+tomli
+pydantic
+pytest

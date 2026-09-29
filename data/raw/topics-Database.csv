@@ -1,0 +1,13 @@
+topic_keyword,subject_category,prompt_prefix,example_hints
+transformer,IT/AI,"Focus on attention mechanism, self-attention, and positional encoding","BERT, GPT, ViT"
+neural network,IT/AI,"Focus on layer types, activation functions, and backpropagation","CNN, RNN, MLP"
+docker,IT/AI,"Focus on containerization, images, and orchestration","Kubernetes, Compose"
+api,IT/AI,"Focus on REST, endpoints, authentication, and versioning","REST, GraphQL, gRPC"
+sorting algorithm,IT/AI,"Focus on time complexity, stability, and use cases","QuickSort, MergeSort"
+machine learning,IT/AI,"Focus on supervised/unsupervised learning, model evaluation","Random Forest, SVM"
+blockchain,IT/AI,"Focus on distributed ledger, consensus mechanisms, cryptography","Bitcoin, Ethereum, PoW"
+photosynthesis,General,"Focus on light-dependent and light-independent reactions","chlorophyll, Calvin cycle"
+French Revolution,General,"Focus on causes, key events, and lasting impact","Bastille, Napoleon"
+supply chain,General,"Focus on logistics, inventory, and resilience","bullwhip effect, JIT"
+cognitive bias,General,"Focus on heuristics, decision-making, and examples","confirmation bias, anchoring"
+climate change,General,"Focus on greenhouse effect, global warming impacts, mitigation","carbon footprint, Paris Agreement"
